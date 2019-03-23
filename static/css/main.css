@@ -1,0 +1,9 @@
+.card-body { padding:0px}
+.barcode-label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: .8rem;
+    line-height: 10px;
+}
+.barcode-label .barcode-text-line {
+    line-height: 14px;
+}
